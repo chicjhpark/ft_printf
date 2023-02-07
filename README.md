@@ -11,3 +11,5 @@
   - %x
   - %X
   - %%
+### Development Report
+- 기존의 printf 함수에서 문자열 우선순위를 따라서 파싱했다.
